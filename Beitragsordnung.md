@@ -4,14 +4,14 @@
 2. Der Makerspace Partheland e. V. ist zur Erfüllung seiner satzungsgemäßen Aufgaben darauf angewiesen, dass seine Mitglieder ihre Beiträge vollständig und pünktlich entrichten. Vor diesem Hintergrund hat die Mitgliederversammlung des Makerspace Partheland e. V. am 14.01.2022 diese Beitragssatzung beschlossen, die am darauf folgenden Tag in Kraft tritt. Die festgelegte Beitragssätze werden jeweils ab der darauf folgenden Beitragszahlung erhoben. 
 
 3. Die Höhe der Beiträge wird wie folgt festgelegt: 
-1.1 Aktive Mitglieder:
-Der Mitgliedsbeitrag beträgt 5,-€ je Monat. Auf freiwilliger Basis kann ein höherer Mitgliedsbeitrag gezahlt werden. 
-1.2 Fördernde Mitglieder:
-Die Mitgliedsbeiträge für fördernde Mitglieder (zum Beispiel Unternehmen und Kooperationspartner) werden vom Vorstand individuell verhandelt und in den entsprechenden Verträgen festgeschrieben.
+ - 1.1 Aktive Mitglieder:
+   Der Mitgliedsbeitrag beträgt **5,-€ je Monat**. Auf freiwilliger Basis kann ein höherer Mitgliedsbeitrag gezahlt werden. 
+ - 1.2 Fördernde Mitglieder:
+   Die Mitgliedsbeiträge für fördernde Mitglieder (zum Beispiel Unternehmen und Kooperationspartner) werden vom Vorstand individuell verhandelt und in den  entsprechenden Verträgen festgeschrieben.
 
 4. Bei sozialen Härtefällen kann eine Beitragsänderung bezüglich der Höhe und/oder der Zahlungsmodalitäten beantragt werden. Der Antrag ist mit entsprechenden Nachweisen an den Vorstand zu richten, der hierüber mit einfacher Mehrheit entscheidet.
 
-5. Die Beiträge gemäß Punkt 3 werden als Jahresbeiträge jeweils jährlich im ersten Monat des Geschäftsjahres im Voraus erhoben. 
+5. Die Beiträge gemäß Punkt 3 werden als **Jahresbeiträge jeweils jährlich im ersten Monat des Geschäftsjahres im Voraus** erhoben. 
 
 6. Mitglieder, die den Verein neu beitreten, zahlen im Beitrittsjahr jeweils 1/12 pro Monat ihrer Mitgliedschaft. Der Monat, in dem das Mitglied dem Verein beigetreten ist, wird nicht mitgerechnet. Endet eine Mitgliedschaft vor Ablauf des Geschäftsjahres, erfolgt keine anteilige Erstattung.
 
