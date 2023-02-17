@@ -16,10 +16,10 @@ Die Mitgliederversammlung hat am 14.Januar 2022 die folgende Satzung verabschied
 1. Der Verein Makerspace Partheland verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 2. Zweck des Vereins ist die Förderung der Erziehung, Volks- und Berufsbildung, einschließlich der Schüler- und Studentenhilfe. Dies beinhaltet insbesondere die Unterstützung der Persönlichkeitsbildung von Kindern, Jugendlichen und Erwachsenen (einschließlich Senioren) mit dem Ziel der Entfaltung von schöpferischen Potentialen.
 3. Der Verein erfüllt seine Aufgaben durch:
-die Organisation und Durchführung von öffentlichen und vereinsinternen Veranstaltungen
-Vermitteln und Erlernen von Fähigkeiten und Fertigungstechniken, welche zur Entwicklung und Umsetzung von kreativen Ideen erforderlich sind
-den Aufbau und Betrieb einer Werkstatt für den "Makerspace Partheland".
-die Förderung der Allgemeinbildung im technischen Bereich, der Weiterbildung und der gegenseitigen Inspiration und Unterstützung.
+ - die Organisation und Durchführung von öffentlichen und vereinsinternen Veranstaltungen
+ - Vermitteln und Erlernen von Fähigkeiten und Fertigungstechniken, welche zur Entwicklung und Umsetzung von kreativen Ideen erforderlich sind
+ - den Aufbau und Betrieb einer Werkstatt für den "Makerspace Partheland".
+ - die Förderung der Allgemeinbildung im technischen Bereich, der Weiterbildung und der gegenseitigen Inspiration und Unterstützung.
 4. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 5. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus den Mitteln des Vereins. Keine Person darf durch unverhältnismäßig hohe Vergütungen oder durch Ausgaben, die dem Zweck des Vereins fremd sind, begünstigt werden.
 6. Zur Erreichung des Vereinszwecks darf der Verein im Rahmen des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung Vermögen ansammeln, Rücklagen bilden, Grundstücke und Einrichtungen erwerben, Gebäude und Einrichtungen errichten.
